@@ -1,7 +1,7 @@
 # Python 3 code to find sum
 # of elements in given array
 
-
+# gokul recieved the code
 def _sum(arr):
 
 	# initialize a variable
