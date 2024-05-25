@@ -2,6 +2,7 @@
 # of elements in given array
 
 # gokul recieved the code
+#ayyanar reviewed the code
 def _sum(arr):
 
 	# initialize a variable
